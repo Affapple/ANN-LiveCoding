@@ -1,3 +1,7 @@
-torch
-numpy
 ipykernel
+matplotlib
+numpy
+torch
+torchvision
+scikit-learn
+tqdm
